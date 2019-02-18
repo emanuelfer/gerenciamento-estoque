@@ -1,0 +1,4 @@
+view.TelaCadastroCategoria
+view.TelaCadastroCategoria$3
+view.TelaCadastroCategoria$1
+view.TelaCadastroCategoria$2

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telascategoria/TelaConsultarCategoria.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/model/Gerente.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/dao/DaoGerente.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telasaida/TelaExcluirSaida.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/TelaVerificarEstoque.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/gerenciartelas/GerenciadorDeTelas.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/dao/DaoSaida.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/dao/DaoCategoria.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telasaida/TelaAlterarSaida.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/dao/DaoProduto.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telascategoria/TelaExcluirCategoria.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telasproduto/TelaCadastrarProduto.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/TelaInicial.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telasaida/TelaConsultarSaida.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telaslote/TelaAlterarLote.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telasproduto/TelaConsultarProduto.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telaslote/TelaConsultarLote.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telascategoria/TelaAlterarCategoria.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/TelaLogin.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telasaida/TelaCadastrarSaida.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telaslote/TelaCadastrarLote.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/model/Lote.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/model/Saida.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/view/telascategoria/TelaCadastroCategoria.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/Gerenciamento%20de%20Estoque%20-%20Programa%20v1.0/Gerenciamento%20De%20Estoque/src/dao/DaoLote.java</file>
+        </group>
+    </open-files>
+</project-private>
